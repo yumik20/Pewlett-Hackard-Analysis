@@ -2,7 +2,7 @@
 database related project 
 
 
-### Overview of the analysis:
+## Overview of the analysis:
 
 In this company, there is a “silver tsunami” as many current employees reach retirement age. I was given two assignments as following: 
  
@@ -10,9 +10,9 @@ In this company, there is a “silver tsunami” as many current employees reach
 2. identify employees who are eligible to participate in a mentorship program. 
 
 
-## Results:
+# Results:
 
-# 1. determine the number of retiring employees per title results as below: 
+## 1. determine the number of retiring employees per title results as below: 
 count  | title\
 29414  | Senior Engineer\
 28254  |	Senior Staff\
@@ -22,10 +22,10 @@ count  | title\
 1761   |	Assistant Engineer\
 2      |	Manager
 
-# 2. Identify employees who are eligible to participate in a mentorship program.
+## 2. Identify employees who are eligible to participate in a mentorship program.
 There are 1549 employees are qualified as mentor.  
 
-## Summary:
+# Summary:
 
 In this project, I was able to create queries in Employee_Database_challenge.sql to create three new csv files named as retirement_titles.csv, unique_titles.csv, retiring_titles.csv, and mentorship_eligibilty.csv. 
 

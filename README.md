@@ -13,13 +13,13 @@ In this company, there is a “silver tsunami” as many current employees reach
 ## Results:
 
 # 1. determine the number of retiring employees per title results as below: 
-count	title
-29414	Senior Engineer
-28254	Senior Staff
-14222	Engineer
-12243	Staff
-4502	Technique Leader
-1761	Assistant Engineer
+count	title\
+29414	Senior Engineer\
+28254	Senior Staff\
+14222	Engineer\
+12243	Staff\
+4502	Technique Leader\
+1761	Assistant Engineer\
 2	Manager
 
 # 2. Identify employees who are eligible to participate in a mentorship program.

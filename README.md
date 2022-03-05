@@ -1,6 +1,8 @@
 # Pewlett-Hackard-Analysis
 database related project 
 
+-Below this the database structure:
+![Relational_database](https://raw.githubusercontent.com/yumik20/Pewlett-Hackard-Analysis/main/EmployeeBD.png) 
 
 ## Overview of the analysis:
 
